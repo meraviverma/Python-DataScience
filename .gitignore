@@ -1,0 +1,4 @@
+#Enviorments
+venv/
+.env
+myenv/
